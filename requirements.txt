@@ -1,0 +1,6 @@
+pandas
+matplotlib
+numpy
+tensorflow
+tensorflow_addons
+opencv-python
