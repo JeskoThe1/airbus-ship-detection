@@ -1,4 +1,4 @@
-##Ship Segmentation
+#Ship Segmentation#
 This repository contains a solution for the task of segmenting ships in photos using deep learning techniques. Below is a detailed description of the solution approach and implementation.
 
 Solution Description
